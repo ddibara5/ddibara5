@@ -21,4 +21,4 @@ Please check out my product portfolio to see all of my projects.
 ### Contact :mailbox_with_mail:
 Feel free to reach out to me if you want to collaborate on projects or just chat about data analytics! 🤝
 - Email: ddibara@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/david-dibara-75461090/)
+- LinkedIn: [Dave DiBara](https://www.linkedin.com/in/david-dibara-75461090/)
