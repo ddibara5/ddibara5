@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner](https://github.com/ddibara5/ddibara5/blob/main/Coffee%20Speaks.png)
+![Banner](https://github.com/ddibara5/ddibara5/blob/main/Coffee%20Speaks%20(1).png)
 
 Hi, I'm Dave. I'm a data analytics enthusiast with expertise in data analysis, visualization, and natural language processing. I am currently enhancing my skills in SQL and Python to further my career in data analytics. I enjoy solving complex problems and transforming data into actionable insights. 
 
