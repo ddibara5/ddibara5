@@ -14,7 +14,7 @@ Hi, I'm Dave. I'm a data analytics enthusiast with expertise in data analysis, v
 Please check out my portfolio to see all of my [projects](https://github.com/ddibara5/Portfolio-Guide).
 
 ### Tools :hammer_and_wrench:
-- Languages: SQL (MySQL, Google SQL), Python (Pandas, Spacy, Matplotlib)
+- Languages: SQL (MySQL, PostgreSQL, Google SQL), Python (Pandas, Spacy, Matplotlib)
 - Analysis: Jupyter Notebook, Google BigQuery, AWS Redshift
 - Visualization: Looker, Looker Studio
 
